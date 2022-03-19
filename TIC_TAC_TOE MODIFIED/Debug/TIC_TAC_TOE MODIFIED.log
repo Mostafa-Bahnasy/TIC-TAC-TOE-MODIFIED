@@ -1,0 +1,7 @@
+﻿  TIC_TAC_TOE MODIFIED.cpp
+E:\TIC_TAC_TOE MODIFIED\TIC_TAC_TOE MODIFIED.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+E:\TIC_TAC_TOE MODIFIED\TIC_TAC_TOE MODIFIED.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+E:\TIC_TAC_TOE MODIFIED\TIC_TAC_TOE MODIFIED.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+E:\TIC_TAC_TOE MODIFIED\TIC_TAC_TOE MODIFIED.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+E:\TIC_TAC_TOE MODIFIED\TIC_TAC_TOE MODIFIED.cpp(225): warning C4715: 'another_game': not all control paths return a value
+  TIC_TAC_TOE MODIFIED.vcxproj -> E:\TIC_TAC_TOE MODIFIED\Debug\TIC_TAC_TOE MODIFIED.exe
